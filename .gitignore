@@ -1,0 +1,7 @@
+node_modules
+app
+dist
+v1_0.zip
+.idea
+yarn-error.log
+

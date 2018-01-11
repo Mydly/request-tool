@@ -1,0 +1,9 @@
+{
+    "appId": "com.movesay.moveTool",
+    "mac": {
+      "icon":"./app/icon.icns"
+    },
+    "win": {
+      "icon":"./app/icon.ico"
+    }
+}

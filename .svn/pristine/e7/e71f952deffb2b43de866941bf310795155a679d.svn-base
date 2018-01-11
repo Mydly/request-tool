@@ -1,0 +1,10 @@
+import { combineReducers } from 'redux';
+import topNav from './topNav';
+import settings from './settings';
+
+const rootReducer = combineReducers({
+    topNav,
+    settings
+});
+
+export default rootReducer;
